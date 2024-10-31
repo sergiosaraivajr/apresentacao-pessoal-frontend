@@ -21,9 +21,9 @@ function Projects() {
               Site da Igreja AD Carajás
             </h5>
             <p class="mb-4 text-base">
-              Neste projeto, busquei uma navegação fluuida e simples para o
+              Neste projeto, busquei uma navegação fluida e simples para o
               usuário. Com um carrossel de imagens que levam às suas respectivas
-              seções. Cultos, Agnda Semanal, Eventos, Missões e História da
+              seções. Cultos, Agenda Semanal, Eventos, Missões e História da
               Igreja.
             </p>
           </div>
@@ -46,9 +46,9 @@ function Projects() {
             </h5>
             <p class="mb-4 text-base">
               Neste Site busquei uma paleta de cores que remetem aos tons de
-              café. Dividi em seções Sobre, Eventos, Cardápio, Fale conoisco,
-              que podem ser direcionadas pelo menu de navegação. utilizei
-              Bootstrap, CSS e JS.
+              café. Dividi em seções Sobre, Eventos, Cardápio, Fale conosco, que
+              podem ser direcionadas pelo menu de navegação. Utilizei Bootstrap,
+              CSS e JS.
             </p>
           </div>
           <div class="mt-auto border-t-2 border-neutral-100 px-6 py-3 text-center text-surface/75 dark:border-white/10 dark:text-neutral-300">
